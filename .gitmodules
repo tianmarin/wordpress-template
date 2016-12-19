@@ -1,3 +1,6 @@
 [submodule "external/botstrap"]
 	path = external/botstrap
 	url = https://github.com/twbs/bootstrap
+[submodule "external/fontawesome"]
+	path = external/fontawesome
+	url = https://github.com/FortAwesome/Font-Awesome
